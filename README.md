@@ -40,20 +40,22 @@ The system is modular and uses JSON files for persistent data storage.
 
 ## Project Structure
 
+```text
 PROJECT2-Mini-Amazon-Console/
-├── main.py
-├── users.py
-├── products.py
-├── cart.py
-├── orders.py
-├── storage.py
-├── ui.py
-├── README.md
-└── data/
-    ├── users.json
-    ├── products.json
-    ├── carts.json
-    └── orders.json
+|- main.py
+|- users.py
+|- products.py
+|- cart.py
+|- orders.py
+|- storage.py
+|- ui.py
+|- README.md
+|- data
+    |- users.json
+    |- products.json
+    |- carts.json
+    |- orders.json
+```
 
 ---
 
