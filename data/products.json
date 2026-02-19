@@ -1,0 +1,62 @@
+[
+  {
+    "product_id": "P1001",
+    "name": "USB-C Cable",
+    "price": 9.99,
+    "stock": 60
+  },
+  {
+    "product_id": "P1002",
+    "name": "Wireless Mouse",
+    "price": 19.99,
+    "stock": 15
+  },
+  {
+    "product_id": "P1003",
+    "name": "Mechanical Keyboard",
+    "price": 59.99,
+    "stock": 15
+  },
+  {
+    "product_id": "P1004",
+    "name": "HDMI Adapter",
+    "price": 14.99,
+    "stock": 15
+  },
+  {
+    "product_id": "P1005",
+    "name": "Portable Charger",
+    "price": 29.99,
+    "stock": 50
+  },
+  {
+    "product_id": "P1006",
+    "name": "Bluetooth Speaker",
+    "price": 49.99,
+    "stock": 20
+  },
+  {
+    "product_id": "P1007",
+    "name": "Webcam",
+    "price": 39.99,
+    "stock": 20
+  },
+  {
+    "product_id": "P1008",
+    "name": "External Hard Drive",
+    "price": 89.99,
+    "stock": 10
+  },
+  {
+    "product_id": "P1009",
+    "name": "Gaming Headset",
+    "price": 79.99,
+    "stock": 20
+  },
+  {
+    "product_id": "P1010",
+    "name": "Smartphone Stand",
+    "price": 12.99,
+    "stock": 30
+  }
+]
